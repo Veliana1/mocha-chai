@@ -1,2 +1,2 @@
-# mocha-chai
-A repo in whch I work with Mocha and chai
+# mocha-chai-wn21
+A repo in which i work with mocha.js and chai.js
